@@ -1,4 +1,4 @@
-# Sistema de Cadastro Inteligente
+# 📝 Sistema de Cadastro Inteligente
 
 Este projeto em Python é um sistema simples de cadastro de pessoas, com funcionalidades para visualizar os dados inseridos, filtrar adultos e analisar as profissões mais comuns. Criado com foco em aprendizado de lógica de programação e estrutura de dados.
 
@@ -21,7 +21,7 @@ Este projeto em Python é um sistema simples de cadastro de pessoas, com funcion
 💡 Tecnologias
 Python 3
 
-👨‍💻 Autor
+## 👨‍💻 Desenvolvedor
 Carlos Eduardo Moura Pinheiro
 LinkedIn | GitHub
 Email: dev.carlosmoura@gmail.com
